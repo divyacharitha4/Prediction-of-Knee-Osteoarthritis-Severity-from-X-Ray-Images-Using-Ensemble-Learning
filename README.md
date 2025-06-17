@@ -54,11 +54,3 @@ The ensemble model achieved the following performance metrics:
 
 The confusion matrix and ROC curve demonstrate reliable performance across all three categories of knee OA.
 
-## Contributors
-
-- Kothoju Navyeesh ([GitHub](https://github.com/navyeesh))
-- Kanakala Hinduja
-- Jani Anbarasi L
-- Nagavarapu Divya Charitha
-- Pasala Sri Varshitha
-- Uppuluri Venkata Sai Varshitha
